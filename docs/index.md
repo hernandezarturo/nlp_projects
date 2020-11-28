@@ -4,9 +4,12 @@
 ## Proyectos de NLP y  Machine Learning 
 ## Aprendiendo Python
 
-You can use the [editor on GitHub](https://github.com/hernandezarturo/nlp_projects/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Soy Administrador de Empresas queriendo llevar mas allá mi profesión aprendiendo de Machine Learning, principalmente para usar este tipo de herramientas en optimizaciones de servicio al cliente, trabajo de peticione, quejas y reclamos asi como en los procesos de experiencia de cliente. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Con este aprendizaje he realizado algunos taller como estudiante de Analitica Estrategica de Datos en la [Universidad Konrad Lorenz](http://www.konradlorenz.edu.co/es/)
+
+## Aquí puedes conocer algunos de los talleres:
+
 
 Taller 3 - [Preprocesamiento de textos](https://github.com/hernandezarturo/nlp_projects/blob/master/Taller%203%20-%20Pre-Procesamiento%20de%20Textos.ipynb)
 
@@ -24,15 +27,3 @@ Taller 9 - [Nube de Palabras](https://github.com/hernandezarturo/nlp_projects/bl
 
 Taller 10 -[Twitter - Captura de datos y NLP](https://github.com/hernandezarturo/nlp_projects/blob/master/Taller10_NLP/Taller%2010%20-%20Twitter.ipynb)
 
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hernandezarturo/nlp_projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
