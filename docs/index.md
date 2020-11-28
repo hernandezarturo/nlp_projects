@@ -8,10 +8,6 @@ Soy Administrador de Empresas queriendo llevar mas allá mi profesión aprendien
 
 Con este aprendizaje he realizado algunos taller como estudiante de Analitica Estrategica de Datos en la [Universidad Konrad Lorenz](http://www.konradlorenz.edu.co/es/)
 
-![linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJezQhveD503icT4TIJs5VWEJHehjavNZq8A&usqp=CAU)
-
-[Mi perfil profesional](https://www.linkedin.com/in/arturo-hernández-carvajal-b17451109)
-
 ## Aquí puedes conocer algunos de los talleres:
 
 
@@ -31,3 +27,6 @@ Taller 9 - [Nube de Palabras](https://github.com/hernandezarturo/nlp_projects/bl
 
 Taller 10 -[Twitter - Captura de datos y NLP](https://github.com/hernandezarturo/nlp_projects/blob/master/Taller10_NLP/Taller%2010%20-%20Twitter.ipynb)
 
+![linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJezQhveD503icT4TIJs5VWEJHehjavNZq8A&usqp=CAU)(https://www.linkedin.com/in/arturo-hernández-carvajal-b17451109)
+
+[Mi perfil profesional](https://www.linkedin.com/in/arturo-hernández-carvajal-b17451109)
