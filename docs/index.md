@@ -29,7 +29,6 @@ Taller 10 -[Twitter - Captura de datos y NLP](https://github.com/hernandezarturo
 
 ## Mi perfil profesional en linkedin [Aquí](https://www.linkedin.com/in/arturo-hernández-carvajal-b17451109)
 
-<i class="fab fa-linkedin"></i>
-
+![Image](<i class="fab fa-linkedin"></i>)
 
 
