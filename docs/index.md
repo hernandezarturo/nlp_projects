@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Representación Vectorial de texto](https://github.com/hernandezarturo/nlp_projects/blob/master/Taller4/TALLER%204%20NLP%20Feature%20Engineering.ipynb) and ![Image](src)
+Taller 4 - [Representación Vectorial de texto](https://github.com/hernandezarturo/nlp_projects/blob/master/Taller4/TALLER%204%20NLP%20Feature%20Engineering.ipynb) 
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
