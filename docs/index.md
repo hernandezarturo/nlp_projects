@@ -27,7 +27,9 @@ Taller 9 - [Nube de Palabras](https://github.com/hernandezarturo/nlp_projects/bl
 
 Taller 10 -[Twitter - Captura de datos y NLP](https://github.com/hernandezarturo/nlp_projects/blob/master/Taller10_NLP/Taller%2010%20-%20Twitter.ipynb)
 
-## <i class="fab fa-linkedin"></i> Mi perfil profesional en linkedin [Aquí](https://www.linkedin.com/in/arturo-hernández-carvajal-b17451109)
+## Mi perfil profesional en linkedin [Aquí](https://www.linkedin.com/in/arturo-hernández-carvajal-b17451109)
+
+<i class="fab fa-linkedin"></i>
 
 
 
